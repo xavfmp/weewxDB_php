@@ -23,7 +23,7 @@ $ftp_password   =  "password";
 #Fréquence de mise à jour du fichier static en secondes.
 $frequence = 600;
 
-#informations relatioves à la stations
+#informations relatioves à la station
 $id_station = "fort-mahon";
 
 #nothing to change after this...
